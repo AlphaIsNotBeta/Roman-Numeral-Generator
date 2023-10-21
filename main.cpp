@@ -9,7 +9,6 @@ string ROMAN_I_GENERATOR(int number,int numberToSubtract){
 }
 
 int main(int, char**){
-    system("cls");
     int RAND_NUMBER = 0;
     ofstream Numeral("Path");
     for (size_t i = 0; i < 50; i++){
